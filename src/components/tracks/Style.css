@@ -26,3 +26,13 @@
 .small {
   width: 100px;
 }
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading .music {
+  font-size: 100px;
+}
