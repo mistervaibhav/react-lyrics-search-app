@@ -37,6 +37,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+### Frontend: React with Bootstrap 4
+### Backend: Musixmatch developer API : https://developer.musixmatch.com/
+
 ## Screenshots
 
 ![](https://github.com/mistervaibhav/react-lyrics-search-app/blob/master/snaps/1.png)
